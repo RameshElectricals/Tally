@@ -222,5 +222,14 @@ Mark changed vouchers
 
 ```
 
+#### Inventory features are subdivided into 7 functions, which are as follows:
 
-
+```
+General
+Storage and Classification
+Order processing
+Invoicing
+Purchase Management
+Sales Management
+Other features
+```
