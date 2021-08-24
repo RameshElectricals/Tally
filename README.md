@@ -276,3 +276,49 @@ Use cost tracking for stock item
 After enabled or disabled the features, press ctrl+A or choose A: Accept to save the details.
 
 ```
+#### Statutory & Taxation in Tally ERP 9:
+
+#### The following features are available for statutory and taxation:
+
+```
+Goods and Service Tax (GST)
+Excise
+Value Added Tax (VAT)
+Tax deducted at Source (TDS)
+Tax collected at source
+```
+
+```
+Enable Goods and Services Tax (GST): If we want to use GST tax for company, enable GST option
+
+Set/alter GST details: If we want to change the GST detail, enable this option.
+
+Enable Value Added Tax (Vat): Now India is following GST tax, so disable this option as GST tax is followed by Company.
+
+Set/Alter VAT details: If we want to select No, choose this option.
+
+Enable Excise: If we want to use the Excise, enable this option
+
+```
+
+```
+Set/alter excise details: If we want to change the excise details, enable this option
+
+Enable Service Tax: If we want to use the service tax by company, enable this option
+
+Set/alter service tax details: If we want to alter the service tax details, enable this option
+
+Enable Tax deduction at source: If we want to use TDS, enable this option
+
+ ```
+ 
+ ```
+ 
+ Enable Tax collected at Source: If we want to use TCS, enable this option
+ 
+ Income/PAN Tax No: Update the company permanent Income tax number or account number in this field.
+
+  Corporate Identify No: Update the CIN number of company in this field.
+
+```
+
