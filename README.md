@@ -58,6 +58,115 @@ Payroll Configuration
 
 ```
 
+General: In General Configuration, we can configure the details of the country, name style, the format of dates, number format, the configuration of table, import/export configuration, and other options.
 
+#### Numerical Symbols: The following configurations are contained in Numerical Symbols:
 
+```
+
+Symbols to use for positive numbers
+Symbols to use for negative numbers
+Symbols to use for debit account
+Symbols to use for credit account
+
+ ```
  
+#### Inventory Info/ Accts: The following configurations are contained in Accounts and Inventory information as follows:
+
+```
+Master data
+Accounts
+Inventory
+```
+
+
+#### Voucher Entry: The following configuration details are contained in Voucher entry as follows:
+
+```
+Accounts
+Inventory
+Statutory
+```
+
+#### Order Entry/ Invoice: The following configurations are contained in order entry/ invoice as follows:
+
+```
+Accounts
+Inventory
+Statutory
+```
+
+#### Payroll Configuration: The following details are contained in the Payroll configuration:
+
+```
+Add notes for employees
+Show statutory details
+Provide passport and visa details
+Provide contract details
+Show resigned/retired employees
+Show employee display name
+```
+
+#### Banking Configuration: The following details are contained in Banking configuration:
+
+```
+Show all unreconciled transactions in BRS till date
+Remove bank date on altering reconciled voucher
+New bank statement's location
+Payment instruction's location
+Show details before export/upload
+Allow reset on upload transactions
+New intermediate file's location
+Imported intermediate file's location
+
+```
+
+#### Printing: The printing configurations are used to configure the printing screen for
+
+```
+Purchase transaction
+Payment Vouchers
+Sales transactions
+Receipt Vouchers
+Journal / Contra
+Debit / Credit note
+Reminding letters
+Confirmation statements
+Payment advice configuration
+Payroll
+Advanced configurations
+```
+
+#### Data configuration: The data configuration is used to define the following things:
+
+```
+Data file's location
+Export file's location
+Load companies on start up
+Select companies to preload on startup
+Language file's location
+Configure file's location
+```
+
+#### Advanced Configuration: This configuration is used to define the client or server configuration like:
+
+```
+ERP 9 acting as
+Enable OBDC server
+Port number
+Connection Configurations
+Log Configuration
+server 9 configuration
+Net server proxy configuration
+Gateway proxy configuration
+```
+
+#### Licensing: Licensing configuration is used to update the Tally license:
+
+```
+Activate License
+Reactivate License
+Configure existing License
+Get a Rental License
+```
+
