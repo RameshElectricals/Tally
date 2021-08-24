@@ -212,3 +212,15 @@ Enable cheque printing
 Set/alter post dates transaction features.
 ```
 
+#### Other Features:
+
+```
+Enable company logo
+Enabled zero-valued transactions
+Maintain multiple mailing details for ledgers and company
+Mark changed vouchers
+
+```
+
+
+
