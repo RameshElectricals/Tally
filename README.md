@@ -170,3 +170,45 @@ Configure existing License
 Get a Rental License
 ```
 
+#### General
+
+```
+Maintain Accounts Only: If we want to maintain inventory transactions, then choose this option.
+Integrate accounts and inventory: If we want to include stock or inventory balances from inventory records, then choose the Yes option.
+Use income and expense a/c instead of profit & loss a/c: If we want to display the income and expenses accounts as a menu instead of profit & loss account, then we will choose this option.
+Enable Multi-Currency: If we want to work with multi-currencies, then choose this option.
+Outstanding Management
+
+Maintain bill-wise details:
+Activate Interest calculation:
+Cost/Profit centre management
+```
+
+#### Maintain Payroll:
+```
+Maintain cost centre:
+User cost centre of job costing:
+Use more than one cost category:
+Use predefined cost centre allocation in transactions:
+Show opening balance for revenue items in reports:
+Invoicing
+```
+#### Enable Invoicing:
+
+```
+Record purchases in invoice mode
+Use credit and debit notes
+Record debit notes in invoice mode
+Record credit notes in invoice mode
+Budgets and Scenario Management
+
+Maintain budgets and control
+Use optional vouchers and reversing journals
+Banking
+
+Set/alter transaction type
+Set/alter banking type
+Enable cheque printing
+Set/alter post dates transaction features.
+```
+
