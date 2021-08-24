@@ -233,3 +233,46 @@ Purchase Management
 Sales Management
 Other features
 ```
+
+#### General:
+```
+Integrate accounts and inventory: If we want to include stock or inventory balances in inventory records, then choose this option as Yes.
+Enable Zero-value transactions: If we want to allow the zero-value transactions, then choose this option as Yes.
+Storage and classification
+
+Maintain multiple godowns: If we have more than one storage location and godowns for storing the materials, then enable this option.
+Maintain stock categories: If we want to define or maintain stock categories, then enable this option.
+Maintain batch-wise details: If we want to maintain batch-wise details for stock items, then enable this option.
+Set expiry dates for batches: If we want to maintain the expiry dates for batches, then choose this option.
+Use separate actual and billed quantity columns.
+Order Processing
+
+Enable sales order processing: If we want to define sales orders, then enable this option.
+Enable job order processing: If we want to define the job orders, then enable this option.
+Enable purchase order processing: If we want to define job orders, then enable this option.
+Invoicing
+```
+
+#### Enable Invoicing: 
+
+```
+Record purchases in invoice mode
+Use separate discount columns in invoice
+Use credit or debit notes:
+Record debit notes in invoice mode
+Record credit notes in invoice mode
+Purchase Management
+
+Track additional costs of purchases
+Sales management
+
+Use multiple price levels
+Other features
+
+Use material in and out vouchers
+Use rejection inwards and outward notes
+Use tracking numbers
+Use cost tracking for stock item
+After enabled or disabled the features, press ctrl+A or choose A: Accept to save the details.
+
+```
